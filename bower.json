@@ -1,0 +1,29 @@
+{
+  "name": "WHiiM Landing Page",
+  "authors": [
+    "Dreu Stepanik <dreuezekiel@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "overrides": {
+    "bulma": {
+      "main": [
+        "css/bulma.css"
+      ]
+    }
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "bulma": "^0.2.3"
+  }
+}
