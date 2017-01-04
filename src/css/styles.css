@@ -1,5 +1,5 @@
 /*************************************
-	Tile one on Landing Page
+	Hero one on Landing Page
 *************************************/
 
 .tile-one-backsplash {
@@ -35,7 +35,6 @@
 
 #WhiimTag {
 	color: #fff;
-	font-weight: bold;
 	font-size: 2.5em;
 }
 
@@ -62,3 +61,49 @@
 	font-size: 3em;
 }
 
+/*************************************
+	Hero two on Landing Page
+*************************************/
+
+#hero-2-phones {
+	max-width: 75%;
+	max-height: auto;
+	margin-left: 12.5%;
+}
+
+#hero-2-info {
+	margin-top: 50%;
+}
+
+#hero-2-info h1 {
+	font-size: 2.1em;
+}
+
+#hero-2-info h2 {
+	font-size: 1.75em;
+}
+
+#hero-2-scroll-icon {
+	color: #ff3b3f;
+	text-align: center;
+	font-size: 3em;
+}
+
+
+
+.hero-3-background {
+	background-image: url('/img/explore-hero.jpg');
+}
+
+#hero-3-scroll-icon {
+	color: #fff;
+	text-align: center;
+	font-size: 3em;
+}
+
+#hero-3-select-phone {
+	max-width: 60%;
+	max-height: auto;
+	margin-bottom: -9%;
+	margin-top: -4%;
+}
