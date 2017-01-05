@@ -71,14 +71,17 @@
 	margin-left: 12.5%;
 }
 
+#hero-4-info,
 #hero-2-info {
 	margin-top: 50%;
 }
 
+#hero-4-info h1,
 #hero-2-info h1 {
 	font-size: 2.1em;
 }
 
+#hero-4-info h2,
 #hero-2-info h2 {
 	font-size: 1.75em;
 }
@@ -89,7 +92,9 @@
 	font-size: 3em;
 }
 
-
+/*************************************
+	Hero three on Landing Page
+*************************************/
 
 .hero-3-background {
 	background-image: url('/img/explore-hero.jpg');
@@ -102,8 +107,32 @@
 }
 
 #hero-3-select-phone {
-	max-width: 60%;
+	max-width: 81%;
 	max-height: auto;
-	margin-bottom: -9%;
-	margin-top: -4%;
+	margin-bottom: -11.5%;
+	margin-top: -5%;
+}
+
+#hero-3-info {
+	color: #fff;
+	margin-top: 50%;
+}
+
+#hero-3-info h1 {
+	color: #fff;
+	font-size: 2.1em;
+}
+
+#hero-3-info h2 {
+	color: #fff;
+	font-size: 1.75em;
+}
+
+/*************************************
+	Hero Four on Landing Page
+*************************************/
+
+#hero-4-notification {
+	max-width: 105%;
+	max-height: auto;
 }
